@@ -20,7 +20,7 @@ import {
 
 const RegisterForm = () => {
   const baseUrl =
-    "https://port-0-tripmatch-sop272gldid4huj.gksl2.cloudtype.app/";
+    "https://port-0-elice-sw-project2-sop272gldih4u3y.gksl2.cloudtype.app/";
 
   const AgeOption = [
     { value: "default", name: "선택" },

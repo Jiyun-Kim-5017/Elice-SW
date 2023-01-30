@@ -8,7 +8,8 @@ type TProfileModal = {
   email: string;
 };
 
-const baseUrl = "https://port-0-tripmatch-sop272gldid4huj.gksl2.cloudtype.app/";
+const baseUrl =
+  "https://port-0-elice-sw-project2-sop272gldih4u3y.gksl2.cloudtype.app/";
 // 요청 실패시 보일 기본 이미지
 const defaultImgUrl = defaultImage;
 

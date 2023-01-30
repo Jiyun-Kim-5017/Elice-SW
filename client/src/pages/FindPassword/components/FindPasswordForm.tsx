@@ -11,7 +11,7 @@ import axios from "axios";
 
 const FindPasswordForm = () => {
   const baseUrl =
-    "https://port-0-tripmatch-sop272gldid4huj.gksl2.cloudtype.app/";
+    "https://port-0-elice-sw-project2-sop272gldih4u3y.gksl2.cloudtype.app/";
   // const loginUrl = `${baseUrl}/main/auth/login`;
   const [email, setEmail] = useState("");
   const [validText, setValidText] = useState(

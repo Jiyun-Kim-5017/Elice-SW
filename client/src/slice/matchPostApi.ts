@@ -8,7 +8,7 @@ export const matchPostApi = createApi({
   tagTypes: ["FreePost", "MatchPost", "SearchPost"],
   baseQuery: authAxiosBaseQuery({
     baseUrl:
-      "https://port-0-tripmatch-sop272gldid4huj.gksl2.cloudtype.app/api/",
+      "https://port-0-elice-sw-project2-sop272gldih4u3y.gksl2.cloudtype.app/api/",
   }),
   endpoints: (builder) => ({
     // 전체 동행게시글을 불러옴

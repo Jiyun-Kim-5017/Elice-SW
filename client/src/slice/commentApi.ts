@@ -7,7 +7,7 @@ export const commentApi = createApi({
   tagTypes: ["Comment"],
   baseQuery: authAxiosBaseQuery({
     baseUrl:
-      "https://port-0-tripmatch-sop272gldid4huj.gksl2.cloudtype.app/api/",
+      "https://port-0-elice-sw-project2-sop272gldih4u3y.gksl2.cloudtype.app/api/",
   }),
   endpoints: (builder) => ({
     // id에 해당하는 댓글을 업데이트
