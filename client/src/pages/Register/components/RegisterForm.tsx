@@ -19,7 +19,8 @@ import {
 } from "../../../components/Auth/validation";
 
 const RegisterForm = () => {
-  const baseUrl = "http://kdt-sw3-team08.elicecoding.com:3003";
+  const baseUrl =
+    "https://port-0-tripmatch-sop272gldid4huj.gksl2.cloudtype.app/";
 
   const AgeOption = [
     { value: "default", name: "선택" },
