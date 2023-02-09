@@ -1,14 +1,12 @@
 # Trip Match
 
 - 믿을 수 있는 여행 동행자를 구하는 사이트
-- [링크](http://kdt-sw3-team08.elicecoding.com/) <br>
-![QR](https://res.cloudinary.com/dnow6qfd8/image/upload/v1672332941/qr_lpuiw1.png)
+- [링크](https://web-tripmatch-sop272gldih4u3y.gksl2.cloudtype.app/) <br>
 
 ## 서비스 구성 안내
 
 ## 1. 서비스 소개
 
-![시연영상](/uploads/475c0b595de403309aea5abf6d0de1ef/8팀_8282__1_.mov)
 
 - 기술 스택
   ![img](https://res.cloudinary.com/dnow6qfd8/image/upload/v1672301273/2022-12-29_17_03_48_eadleu.png)
